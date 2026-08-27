@@ -1,0 +1,5 @@
+Scenario,PredictedPositiveRate,AvgPredictedProbability,RateDiffFromBaseline,ProbDiffFromBaseline
+Baseline,0.562,0.556,0.0,0.0
+Scenario 1 - Improved CV Health,0.457,0.444,-0.105,-0.112
+Scenario 2 - Worsened Chol & BP,0.572,0.568,0.01,0.012
+Scenario 3 - Exercise Stress,0.664,0.661,0.102,0.105
